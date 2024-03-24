@@ -6,9 +6,11 @@ This repository empowers you to streamline your C and C++ development workflow w
 Code Runner
 ```
 
+![Code_Runner](https://github.com/ibasloom/c-cpp/blob/main/Images/Code_Runner.png)
 ```
 C/C++
 ```
+![C/C++](https://github.com/ibasloom/c-cpp/blob/main/Images/C%3AC%2B%2B.png)
 
 ## ChatGPT Prompt
 
