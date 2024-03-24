@@ -12,6 +12,15 @@ C/C++
 ```
 ![C/C++](https://github.com/ibasloom/c-cpp/blob/main/Images/C%3AC%2B%2B.png)
 
+```
+g++ --version
+```
+
+```
+clang --version
+```
+
+
 ## ChatGPT Prompt
 
 ```
